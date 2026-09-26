@@ -1,0 +1,3 @@
+AutoTek ERP v1.0.11 release trigger.
+Source commit: d01b74968d27ff7a187811d4f34679c544e017a2
+Windows artifact: autotek-erp-1.0.11-update
